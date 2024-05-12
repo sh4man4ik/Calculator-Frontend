@@ -12,7 +12,7 @@ function button2() {
 }
 function button3() {
     let input = document.getElementById("input").value;
-    if (input.length < 11) {
+    if (input.length < 9) {
         document.getElementById("input").value = input + "%";
     }
 }
