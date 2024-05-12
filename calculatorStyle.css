@@ -1,0 +1,183 @@
+body {
+    background-color: rgb(250, 230, 245);
+    text-align: center;
+}
+
+#line1, #line2, #line3, #line4, #line5 {
+    padding: 10px 0px 0px 10px;
+}
+
+button {
+    box-shadow: rgb(0, 0, 0) 2px 2px 3px;
+    text-align: center;
+    width: 43px;
+    height: 43px;
+    border: 0px;
+    border-radius: 30px;
+    background: rgb(227, 172, 233);
+    color: black;
+    font-weight: 800;
+}
+#smooth {
+    background: rgb(212, 136, 219);
+}
+
+#input {
+    box-shadow: rgb(0, 0, 0) 1px 1px 5px;
+    margin-left: 9px;
+    width: 172px;
+    height: 30px;
+    border-color: rgb(0, 0, 0);
+    border-radius: 7px;
+    background-color: rgb(238, 200, 241);
+    font-size: 24px;
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    padding-bottom: 5px;
+}
+
+/*hover*/
+#button1:hover {
+    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
+    background: rgb(225, 166, 231);
+}
+#button2:hover {
+    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
+    background: rgb(225, 166, 231);
+}
+#button3:hover {
+    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
+    background: rgb(225, 166, 231);
+}
+#button4:hover {
+    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
+    background: rgb(225, 166, 231);
+}
+#button5:hover {
+    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
+    background: rgb(225, 166, 231);
+}
+#button6:hover {
+    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
+    background: rgb(225, 166, 231);
+}
+#button7:hover {
+    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
+    background: rgb(225, 166, 231);
+}
+#button8:hover {
+    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
+    background: rgb(225, 166, 231);
+}
+#button9:hover {
+    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
+    background: rgb(225, 166, 231);
+}
+#button10:hover {
+    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
+    background: rgb(225, 166, 231);
+}
+#button11:hover {
+    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
+    background: rgb(225, 166, 231);
+}
+#button12:hover {
+    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
+    background: rgb(225, 166, 231);
+}
+#button13:hover {
+    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
+    background: rgb(225, 166, 231);
+}
+#button14:hover {
+    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
+    background: rgb(225, 166, 231);
+}
+#button15:hover {
+    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
+    background: rgb(225, 166, 231);
+}
+#button16:hover {
+    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
+    background: rgb(225, 166, 231);
+}
+#button17:hover {
+    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
+    background: rgb(225, 166, 231);
+}
+#button18:hover {
+    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
+    background: rgb(225, 166, 231);
+}
+#button19:hover {
+    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
+    background: rgb(225, 166, 231);
+}
+#smooth:hover {
+    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
+    background: rgb(209, 127, 216);
+}
+
+/*active*/
+#button1:active {
+    background: rgb(224, 158, 231);
+}
+#button2:active {
+    background: rgb(224, 158, 231);
+}
+#button3:active {
+    background: rgb(224, 158, 231);
+}
+#button4:active {
+    background: rgb(224, 158, 231);
+}
+#button5:active {
+    background: rgb(224, 158, 231);
+}
+#button6:active {
+    background: rgb(224, 158, 231);
+}
+#button7:active {
+    background: rgb(224, 158, 231);
+}
+#button8:active {
+    background: rgb(224, 158, 231);
+}
+#button9:active {
+    background: rgb(224, 158, 231);
+}
+#button10:active {
+    background: rgb(224, 158, 231);
+}
+#button11:active {
+    background: rgb(224, 158, 231);
+}
+#button12:active {
+    background: rgb(224, 158, 231);
+}
+#button13:active {
+    background: rgb(224, 158, 231);
+}
+#button14:active {
+    background: rgb(224, 158, 231);
+}
+#button15:active {
+    background: rgb(224, 158, 231);
+}
+#button16:active {
+    background: rgb(224, 158, 231);
+}
+#button17:active {
+    background: rgb(224, 158, 231);
+}
+#button18:active {
+    background: rgb(224, 158, 231);
+}
+#button19:active {
+    background: rgb(224, 158, 231);
+}
+#smooth:active {
+    background: rgb(208, 115, 216);
+}
