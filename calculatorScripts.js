@@ -96,7 +96,7 @@ function button16() {
 }
 function button17() {
     let input = document.getElementById("input").value;
-    if (input.length < 11) {
+    if (input.length < 8) {
         document.getElementById("input").value = input + "00";
     }
 }
