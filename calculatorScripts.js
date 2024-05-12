@@ -18,7 +18,7 @@ function button3() {
 }
 function button4() {
     let input = document.getElementById("input").value;
-    if (input.length < 11) {
+    if (input.length < 10) {
         document.getElementById("input").value = input + "/";
     }
 }
