@@ -122,10 +122,10 @@ function smooth() {
             let inputValue = document.getElementById("input").value;
             let inputNumber = eval(inputValue);
         
-                if (inputNumber.toString().split(".")[1]?.length >= 1) {
-                    inputNumber = inputNumber.toFixed(11 - (inputValue.split(".")[0].length));
+                if (inputNumber.toString().split(".")[1]?.length >= 9) {
+                    inputNumber = inputNumber.toFixed(9 - (inputValue.split(".")[0].length));
                 }
-        
+
                 document.getElementById("input").value = inputNumber;
 
         } catch(error) {
