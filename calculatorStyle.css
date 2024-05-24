@@ -39,79 +39,7 @@ button {
 }
 
 /*hover*/
-#button1:hover {
-    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
-    background: rgb(225, 166, 231);
-}
-#button2:hover {
-    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
-    background: rgb(225, 166, 231);
-}
-#button3:hover {
-    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
-    background: rgb(225, 166, 231);
-}
-#button4:hover {
-    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
-    background: rgb(225, 166, 231);
-}
-#button5:hover {
-    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
-    background: rgb(225, 166, 231);
-}
-#button6:hover {
-    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
-    background: rgb(225, 166, 231);
-}
-#button7:hover {
-    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
-    background: rgb(225, 166, 231);
-}
-#button8:hover {
-    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
-    background: rgb(225, 166, 231);
-}
-#button9:hover {
-    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
-    background: rgb(225, 166, 231);
-}
-#button10:hover {
-    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
-    background: rgb(225, 166, 231);
-}
-#button11:hover {
-    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
-    background: rgb(225, 166, 231);
-}
-#button12:hover {
-    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
-    background: rgb(225, 166, 231);
-}
-#button13:hover {
-    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
-    background: rgb(225, 166, 231);
-}
-#button14:hover {
-    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
-    background: rgb(225, 166, 231);
-}
-#button15:hover {
-    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
-    background: rgb(225, 166, 231);
-}
-#button16:hover {
-    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
-    background: rgb(225, 166, 231);
-}
-#button17:hover {
-    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
-    background: rgb(225, 166, 231);
-}
-#button18:hover {
-    box-shadow: rgb(0, 0, 0) 2px 2px 4px;
-    background: rgb(225, 166, 231);
-}
-#button19:hover {
+.buttons:hover {
     box-shadow: rgb(0, 0, 0) 2px 2px 4px;
     background: rgb(225, 166, 231);
 }
@@ -121,61 +49,7 @@ button {
 }
 
 /*active*/
-#button1:active {
-    background: rgb(224, 158, 231);
-}
-#button2:active {
-    background: rgb(224, 158, 231);
-}
-#button3:active {
-    background: rgb(224, 158, 231);
-}
-#button4:active {
-    background: rgb(224, 158, 231);
-}
-#button5:active {
-    background: rgb(224, 158, 231);
-}
-#button6:active {
-    background: rgb(224, 158, 231);
-}
-#button7:active {
-    background: rgb(224, 158, 231);
-}
-#button8:active {
-    background: rgb(224, 158, 231);
-}
-#button9:active {
-    background: rgb(224, 158, 231);
-}
-#button10:active {
-    background: rgb(224, 158, 231);
-}
-#button11:active {
-    background: rgb(224, 158, 231);
-}
-#button12:active {
-    background: rgb(224, 158, 231);
-}
-#button13:active {
-    background: rgb(224, 158, 231);
-}
-#button14:active {
-    background: rgb(224, 158, 231);
-}
-#button15:active {
-    background: rgb(224, 158, 231);
-}
-#button16:active {
-    background: rgb(224, 158, 231);
-}
-#button17:active {
-    background: rgb(224, 158, 231);
-}
-#button18:active {
-    background: rgb(224, 158, 231);
-}
-#button19:active {
+.buttons:active {
     background: rgb(224, 158, 231);
 }
 #smooth:active {
