@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&family=Fira+Code:wght@300..700&family=Victor+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+    <title>Calculator</title>
+</head>
+<body>
+
+    <input type="text" id="input" maxlength="11" size="11">
+
+    <div id="buttons">
+        <div id="line1">
+            <button id="button1" onclick="button1()">AC</button>
+            <button id="button2" onclick="button2()">DEL</button>
+            <button id="button3" onclick="button3()">%</button>
+            <button id="button4" onclick="button4()">/</button>
+        </div>
+
+        <div id="line2">
+            <button id="button5" onclick="button5()">7</button>
+            <button id="button6" onclick="button6()">8</button>
+            <button id="button7" onclick="button7()">9</button>
+            <button id="button8" onclick="button8()">*</button>
+        </div>
+        
+        <div id="line3">
+            <button id="button9" onclick="button9()">4</button>
+            <button id="button10" onclick="button10()">5</button>
+            <button id="button11" onclick="button11()">6</button>
+            <button id="button12" onclick="button12()">-</button>
+        </div>
+
+        <div id="line4">
+            <button id="button13" onclick="button13()">1</button>
+            <button id="button14" onclick="button14()">2</button>
+            <button id="button15" onclick="button15()">3</button>
+            <button id="button16" onclick="button16()">+</button>
+        </div>
+
+        <div id="line5">
+            <button id="button17" onclick="button17()">00</button>
+            <button id="button18" onclick="button18()">0</button>
+            <button id="button19" onclick="button19()">.</button>
+            <button id="smooth" onclick="smooth()">=</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
